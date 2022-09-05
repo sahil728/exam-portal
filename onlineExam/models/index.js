@@ -1,0 +1,10 @@
+module.exports={
+    users:require('./user.js'),
+    courses:require('./courses.js'),
+    subjects:require('./subject.js'),
+    students:require('./students.js'),
+    exams:require('./exam.js'),
+    examstudents:require('./examstudents.js'),
+    questions:require("./question.js"),
+    answers:require('./answers.js')
+}
